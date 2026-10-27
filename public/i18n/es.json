@@ -57,7 +57,8 @@
     "STAFF_DESC": "Contamos con un equipo de profesionales apasionados y altamente calificados.",
     "DEPT_EXEC": "Junta Ejecutiva",
     "DEPT_SOFT": "Ingeniería de Software",
-    "DEPT_ELEC": "Ingeniería Electrónica"
+    "DEPT_ELEC": "Ingeniería Electrónica",
+    "DEPT_PETRO": "Ingeniería de Petróleo"
   },
   "SMARTLINK": {
     "TITLE_1": "SMART LINK",
@@ -143,7 +144,11 @@
     "VALERIA_CARGO": "Coordinadora de departamento",
     "VALERIA_PROF": "Ingeniera Electrónica.",
     "CARLOS_CARGO": "Ingeniero Electrónico",
-    "CARLOS_PROF": "Ingeniero Electrónico."
+    "CARLOS_PROF": "Ingeniero Electrónico.",
+    "MOISES_CARGO": "Ingeniero de Sistemas",
+    "MOISES_PROF": "",
+    "ANGIE_CARGO": "Ingeniera de Petróleo",
+    "ANGIE_PROF": ""
   },
   "CONTACT_PAGE": {
     "TITLE": "Ponte en",

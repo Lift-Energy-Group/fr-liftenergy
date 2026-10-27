@@ -57,7 +57,8 @@
     "STAFF_DESC": "We have a team of passionate and highly qualified professionals.",
     "DEPT_EXEC": "Executive Board",
     "DEPT_SOFT": "Software Engineering",
-    "DEPT_ELEC": "Electronics Engineering"
+    "DEPT_ELEC": "Electronics Engineering",
+    "DEPT_PETRO": "Petroleum Engineering"
   },
   "SMARTLINK": {
     "TITLE_1": "SMART LINK",
@@ -143,7 +144,11 @@
     "VALERIA_CARGO": "Department Coordinator",
     "VALERIA_PROF": "Electronics Engineer.",
     "CARLOS_CARGO": "Electronics Engineer",
-    "CARLOS_PROF": "Electronics Engineer."
+    "CARLOS_PROF": "Electronics Engineer.",
+    "MOISES_CARGO": "Systems Engineer",
+    "MOISES_PROF": "",
+    "ANGIE_CARGO": "Petroleum Engineer",
+    "ANGIE_PROF": ""
   },
   "CONTACT_PAGE": {
     "TITLE": "Get in",
